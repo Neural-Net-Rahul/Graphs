@@ -7,7 +7,9 @@ using namespace std;
 /*
 DFS -> 
 Depth First Search
-TC and SC: O(V+E)
+TC: O(V+2*E)
+When we are traversing the graph, we visit all vertices, and all edges twice in case of undirected.
+SC : O(V), recursion stack + visited
 */
 
 /* 
