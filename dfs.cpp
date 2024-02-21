@@ -7,6 +7,7 @@ using namespace std;
 /*
 DFS -> 
 Depth First Search
+TC and SC: O(V+E)
 */
 
 /* 
