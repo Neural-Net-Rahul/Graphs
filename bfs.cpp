@@ -9,6 +9,8 @@ BFS ->
 Breadth First Search
 BFS has three alphbets 'B','F','S', so we will make three things
 while implementing BFS-> adj. list, visited, queue
+TC : O(V+2*E)
+SC : O(V)
 */
 
 /* 
